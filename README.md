@@ -7,7 +7,7 @@ This readme will contain a log of changes as they are made in the future for my 
 * **20-08-2020** Initial setup
 
 ## To-do-list
-- [ ] make a todo list
+- [ ] Add bio in content/authors/admin/_index.md
 
 -----
 ### License
