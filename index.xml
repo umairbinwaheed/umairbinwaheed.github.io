@@ -7,10 +7,20 @@
     <description>Umair bin Waheed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/umairbinwaheed.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>umairbinwaheed.github.io/media/umair.jpg</url>
       <title>Umair bin Waheed</title>
       <link>umairbinwaheed.github.io/</link>
     </image>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>umairbinwaheed.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>umairbinwaheed.github.io/privacy/</guid>
+      <description>&lt;p&gt;Very private. Do not enter&lt;/p&gt;
+&lt;p&gt;#Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete #this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
