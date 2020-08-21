@@ -8,6 +8,7 @@ This readme will contain a log of changes as they are made in the future for my 
 
 ## To-do-list
 - [ ] Add bio in content/authors/admin/_index.md
+- [ ] Develop the website as you go through different sections
 
 -----
 ### License
